@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="winTitle">Локалізація додатку</v:String>
+    <v:String x:Key="nameLbl_text">Ім'я:</v:String>
+    <v:String x:Key="surnameLbl_text">Прізвище:</v:String>
+    <v:String x:Key="phoneLbl_text">Телефон:</v:String>
+    <v:String x:Key="okBtn_text">ОК</v:String>
+    <v:String x:Key="cancelBtn_text">Скасувати</v:String>
+    <v:String x:Key="chngLngBtn_text">Змінити на англійську</v:String>
+</ResourceDictionary>
